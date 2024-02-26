@@ -1,5 +1,6 @@
-### Hi there 👋
+Hello, World! 👋
 
+Sometimes I’m building something 🛠️, sharing knowledge 📚 and learning 🧠. Here you might find webservices 🌐, data pipelines 🚰 and explorations 🔎 often in the cloud ☁️.
 <!--
 **srgchrksv/srgchrksv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
