@@ -1,6 +1,8 @@
 Hello, World! 👋
 
-Here I’m building something 🛠️ or 🛠️ sharing knowledge 📚 or 📚 learning 🧠. Here you might find webservices 🌐 data pipelines 🚰 explorations 🔎 sometimes in the cloud ☁️.
+I’m building 🛠️ sharing knowledge 📚 learning 🧠. Here you might find webservices 🌐 data pipelines 🚰 explorations 🔎 sometimes in the cloud ☁️.
+
+*Thats the new github profile, previous no longer active: https://github.com/srjchsv*
 <!--
 **srgchrksv/srgchrksv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
