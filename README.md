@@ -2,7 +2,7 @@ Hello, World! 👋
 
 I’m building 🛠️ sharing knowledge 📚 learning 🧠. Here you might find webservices 🌐 data pipelines 🚰 explorations 🔎 sometimes in the cloud ☁️.
 
-*Thats the new github profile, previous no longer active: https://github.com/srjchsv*
+*Thats my new github profile, previous not in use: https://github.com/srjchsv*
 <!--
 **srgchrksv/srgchrksv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
