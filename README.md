@@ -1,8 +1,8 @@
 Hello, World! 👋
 
-I’m building 🛠️ sharing knowledge 📚 learning 🧠.
+I’m building 🛠️ sharing knowledge 📚 learning 🧠
 
-Areas of interest and experiance:
+Areas of interest and experience:
 - data pipelines ➡️
 - data analytics & science 🔍📊 
 - webservices 🌐
