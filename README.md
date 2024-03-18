@@ -1,8 +1,17 @@
 Hello, World! 👋
 
-I’m building 🛠️ sharing knowledge 📚 learning 🧠. Here you might find webservices 🌐 data pipelines 🚰 explorations 🔎 sometimes in the cloud ☁️.
+I’m building 🛠️ sharing knowledge 📚 learning 🧠.
 
-*Thats my new github profile, previous not in use: https://github.com/srjchsv*
+Areas of interest and experiance:
+- data pipelines ➡️
+- data analytics & science 🔍📊 
+- webservices 🌐
+- cloud ☁️
+
+📩 Reach out to me on linkedin [www.linkedin.com/in/srgchrksv](www.linkedin.com/in/srgchrksv) if you need my help or want to build together 📩
+
+
+*p.s. Thats my new github profile, previous no longer in use: https://github.com/srjchsv*
 <!--
 **srgchrksv/srgchrksv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
